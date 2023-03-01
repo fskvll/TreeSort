@@ -1,0 +1,15 @@
+C:\Users\fskvll\RiderProjects\HeapSortNew\HeapSortNew\bin\Debug\net6.0\HeapSortNew.exe
+C:\Users\fskvll\RiderProjects\HeapSortNew\HeapSortNew\bin\Debug\net6.0\HeapSortNew.deps.json
+C:\Users\fskvll\RiderProjects\HeapSortNew\HeapSortNew\bin\Debug\net6.0\HeapSortNew.runtimeconfig.json
+C:\Users\fskvll\RiderProjects\HeapSortNew\HeapSortNew\bin\Debug\net6.0\HeapSortNew.dll
+C:\Users\fskvll\RiderProjects\HeapSortNew\HeapSortNew\bin\Debug\net6.0\HeapSortNew.pdb
+C:\Users\fskvll\RiderProjects\HeapSortNew\HeapSortNew\obj\Debug\net6.0\HeapSortNew.csproj.AssemblyReference.cache
+C:\Users\fskvll\RiderProjects\HeapSortNew\HeapSortNew\obj\Debug\net6.0\HeapSortNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fskvll\RiderProjects\HeapSortNew\HeapSortNew\obj\Debug\net6.0\HeapSortNew.AssemblyInfoInputs.cache
+C:\Users\fskvll\RiderProjects\HeapSortNew\HeapSortNew\obj\Debug\net6.0\HeapSortNew.AssemblyInfo.cs
+C:\Users\fskvll\RiderProjects\HeapSortNew\HeapSortNew\obj\Debug\net6.0\HeapSortNew.csproj.CoreCompileInputs.cache
+C:\Users\fskvll\RiderProjects\HeapSortNew\HeapSortNew\obj\Debug\net6.0\HeapSortNew.dll
+C:\Users\fskvll\RiderProjects\HeapSortNew\HeapSortNew\obj\Debug\net6.0\refint\HeapSortNew.dll
+C:\Users\fskvll\RiderProjects\HeapSortNew\HeapSortNew\obj\Debug\net6.0\HeapSortNew.pdb
+C:\Users\fskvll\RiderProjects\HeapSortNew\HeapSortNew\obj\Debug\net6.0\HeapSortNew.genruntimeconfig.cache
+C:\Users\fskvll\RiderProjects\HeapSortNew\HeapSortNew\obj\Debug\net6.0\ref\HeapSortNew.dll
